@@ -1,5 +1,5 @@
-public class Cnlocc {
+public class Csmxhh {
     public static void main() {
-        System.out.println("vbwsy");
+        System.out.println("nbypv");
     }
 }
