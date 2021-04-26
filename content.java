@@ -1,5 +1,5 @@
-public class Csmxhh {
+public class Cqrrxt {
     public static void main() {
-        System.out.println("nbypv");
+        System.out.println("igmvv");
     }
 }
