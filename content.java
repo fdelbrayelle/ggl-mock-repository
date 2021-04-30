@@ -1,5 +1,5 @@
-public class Cqrrxt {
+public class Cotiru {
     public static void main() {
-        System.out.println("igmvv");
+        System.out.println("xrydm");
     }
 }
