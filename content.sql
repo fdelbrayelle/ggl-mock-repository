@@ -1,2 +1,2 @@
 SELECT * from dxpfr;
-SELECT * from nrxah;
+SELECT * from gnxga;
