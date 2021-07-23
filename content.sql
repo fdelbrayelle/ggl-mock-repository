@@ -1,3 +1,3 @@
 SELECT * from dxpfr;
 SELECT * from gnxga;
-SELECT * from lwdqh;
+SELECT * from dsbdx;
