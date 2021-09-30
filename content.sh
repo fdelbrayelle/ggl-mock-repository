@@ -1,2 +1,1 @@
 echo "jnwlr"
-echo "igjtc"
