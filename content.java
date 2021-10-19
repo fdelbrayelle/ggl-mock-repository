@@ -1,5 +1,5 @@
-public class Cxbitx {
+public class Cipaat {
     public static void main() {
-        System.out.println("vorvy");
+        System.out.println("mdphg");
     }
 }
