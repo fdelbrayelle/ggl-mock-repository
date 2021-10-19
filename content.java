@@ -1,5 +1,5 @@
-public class Ceqvdy {
+public class Cxbitx {
     public static void main() {
-        System.out.println("prfmo");
+        System.out.println("vorvy");
     }
 }
