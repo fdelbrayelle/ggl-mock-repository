@@ -1,5 +1,5 @@
-public class Cipaat {
+public class Cpwycw {
     public static void main() {
-        System.out.println("mdphg");
+        System.out.println("evcle");
     }
 }
