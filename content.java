@@ -1,5 +1,5 @@
-public class Cmgqqc {
+public class Cfhjan {
     public static void main() {
-        System.out.println("icxar");
+        System.out.println("miyna");
     }
 }
