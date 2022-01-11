@@ -7,6 +7,6 @@ public class Ctkhub {
         System.out.println("ngvcf");
         System.out.println("vfeyh");
         System.out.println("iaien");
-        System.out.println("sqeew");
+        System.out.println("nbisq");
     }
 }
