@@ -1,5 +1,5 @@
-public class Cfhjan {
+public class Ctkhub {
     public static void main() {
-        System.out.println("miyna");
+        System.out.println("bmnfc");
     }
 }
